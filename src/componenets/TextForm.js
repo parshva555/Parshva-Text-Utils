@@ -80,22 +80,22 @@ export default function TextForm(props) {
           ></textarea>
         </div>         
         
-        <button className="btn btn-primary mx-1" onClick={handleUpClick}>
+        <button className="btn btn-primary mx-1 my-1" onClick={handleUpClick}>
           CONVERT TO UPPER CASE
         </button>
-        <button className="btn btn-primary mx-1" onClick={handleLoClick}>
+        <button className="btn btn-primary mx-1 my-1" onClick={handleLoClick}>
           CONVERT TO LOWER CASE
         </button>
-        <button className="btn btn-primary mx-1" onClick={handleClearText}>
+        <button className="btn btn-primary mx-1 my-1" onClick={handleClearText}>
           CLEAR TEXT
         </button>
-        <button className="btn btn-primary mx-1" onClick={handleExtraSpaces}>
+        <button className="btn btn-primary mx-1 my-1" onClick={handleExtraSpaces}>
           REMOVE EXTRA SPACES   
         </button>
-        <button type="submit" onClick={speak} className="btn btn-primary mx-1" id="toggle">
+        <button type="submit" onClick={speak} className="btn btn-primary mx-1 my-1" id="toggle">
             Speak
         </button>
-        <button type="submit" onClick={handleCopy} className="btn btn-primary mx-1" id="toggle">
+        <button type="submit" onClick={handleCopy} className="btn btn-primary mx-1 my-1" id="toggle">
             Copy
         </button>
         
