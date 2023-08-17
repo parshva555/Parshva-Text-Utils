@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Parshva-Text-Utils/static/css/main.abd64e84.css",
-    "main.js": "/Parshva-Text-Utils/static/js/main.376b9c17.js",
+    "main.js": "/Parshva-Text-Utils/static/js/main.b60c5981.js",
     "static/js/787.28cb0dcd.chunk.js": "/Parshva-Text-Utils/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/Parshva-Text-Utils/index.html",
     "main.abd64e84.css.map": "/Parshva-Text-Utils/static/css/main.abd64e84.css.map",
-    "main.376b9c17.js.map": "/Parshva-Text-Utils/static/js/main.376b9c17.js.map",
+    "main.b60c5981.js.map": "/Parshva-Text-Utils/static/js/main.b60c5981.js.map",
     "787.28cb0dcd.chunk.js.map": "/Parshva-Text-Utils/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.abd64e84.css",
-    "static/js/main.376b9c17.js"
+    "static/js/main.b60c5981.js"
   ]
 }
